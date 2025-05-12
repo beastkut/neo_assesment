@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315566930014",
+    "project_id": "hotel-management-cea2f",
+    "storage_bucket": "hotel-management-cea2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315566930014:android:63f1c28a7d84e69d119ccf",
+        "android_client_info": {
+          "package_name": "com.example.neo_assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhlURo5FvNWrH6TJuRvqgf55Mi37u6sB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
